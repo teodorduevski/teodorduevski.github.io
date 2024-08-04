@@ -1,12 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Lecturer:**<br>
 
-Organize your courses by years, topics, or universities, however you like!
+CDL Paris Intorduction to Entrepreneurial Strategy, HEC Paris, Spring 2024
+Financial Economics (Master in Management), HEC Paris, Fall 2022, 2023
+Private Equity Landscape Meet the Actors (Master in Finance), HEC Paris, Spring 2023, 2024
+
+
+**Teaching Assistant:**<br>
+
+
+CDL Paris (MBA), HEC Paris, 2022-2024.<br>
+Asset Pricing (PhD Level), HEC Paris, Fall 2021, 2022, 2023.<br>
+Financial Markets (Master in Management), HEC Paris. Fall 2021.<br>
+Financial Economics (Master in Management), HEC Paris. Fall 2021.<br>
