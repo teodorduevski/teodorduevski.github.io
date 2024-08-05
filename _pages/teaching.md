@@ -9,9 +9,9 @@ nav_order: 5
 
 **Lecturer:**<br>
 
-CDL Paris Intorduction to Entrepreneurial Strategy, HEC Paris, Spring 2024
-Financial Economics (Master in Management), HEC Paris, Fall 2022, 2023
-Private Equity Landscape Meet the Actors (Master in Finance), HEC Paris, Spring 2023, 2024
+CDL Paris Intorduction to Entrepreneurial Strategy, HEC Paris, Spring 2024 .<br>
+Financial Economics (Master in Management), HEC Paris, Fall 2022, 2023 .<br>
+Private Equity Landscape Meet the Actors (Master in Finance), HEC Paris, Spring 2023, 2024 .<br>
 
 
 **Teaching Assistant:**<br>
