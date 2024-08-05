@@ -18,10 +18,9 @@ h1 {
 
 <!-- _pages/publications.md -->
 
-<p style="font-size: 24px;"><strong>Working Papers:</strong></p><br>
+<p style="font-size: 24px; margin-bottom: 10px;"><strong>Working Papers:</strong></p>
 
-**[ESG Incidents and Fundraising in Private Equity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071)**<br>
- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" title="SSRN link" style="display: inline-block; padding: 3px 8px; font-size: 14px; color: black; background-color: #ffffff; text-align: center; text-decoration: none; border: 2px solid rgb(130, 0, 0); border-radius: 0px;">SSRN Link</a><br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: none;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
 (with Chhavi Rastogi and Tianhao Yao)
 
 *Main Presentations*: Inquire Europe Fall Seminar (scheduled), 3th Oxford Sustainable Private Market Conference (scheduled), HEC-HKUST Sustainable Finance Seminar Series (scheduled), GRASFI (scheduled), 7th Annual Private Markets Research Conference, International Risk Forum.
