@@ -17,9 +17,11 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+Welcome! 
 
+I am a 4th year **PhD Candidate in Finance** at **HEC Paris**.
 
-I am a 4th year **PhD Candidate in Finance** at **HEC Paris**. My main research interests are in  **corporate finance** and **financial intermediation in private markets**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1UWsUKytuFX05AOricBKCQUUcun8MXQVY/view?usp=sharing" target="_blank">here</a><br>. 
+My main research interests are in  **corporate finance** and **financial intermediation in private markets**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1UWsUKytuFX05AOricBKCQUUcun8MXQVY/view?usp=sharing" target="_blank">here</a>.
 
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Contact</strong></p>
