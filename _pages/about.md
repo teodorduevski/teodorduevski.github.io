@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>w 16</p>
+    <p>1 Rue de la Libération</p>
+    <p>Jouy-en-Josas, France 78350</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 
@@ -23,4 +23,11 @@ I am a 4th year **PhD Candidate in Finance** at **HEC Paris**. My main research 
 
 
 <br><br>
-Email: teodor.duevski@hec.edu
+Email: <a href="mailto:teodor.duevski@hec.edu">teodor.duevski@hec.edu</a>
+<br><br>
+
+<ul>
+  <li><a href="https://scholar.google.com/citations?user=fRrtt34AAAAJ&hl=en" target="_blank">Google Scholar</a></li>
+  <li><a href="https://x.com/TDuevski" target="_blank">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/teodor-duevski/" target="_blank">LinkedIn</a></li>
+</ul>
