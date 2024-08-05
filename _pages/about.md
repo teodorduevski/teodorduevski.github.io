@@ -21,12 +21,10 @@ social: false # includes social icons at the bottom of the page
 
 I am a 4th year **PhD Candidate in Finance** at **HEC Paris**. My main research interests are in  **corporate finance** and **financial intermediation in private markets**. 
 
+You can download my CV here: 
 
-<br><br>
+<p style="font-size: 24px; margin-bottom: 10px;"><strong>Contact</strong></p>
 Email: <a href="mailto:teodor.duevski@hec.edu">teodor.duevski@hec.edu</a>
-<br>
-<ul>
-  <li><a href="https://scholar.google.com/citations?user=fRrtt34AAAAJ&hl=en" target="_blank">Google Scholar</a></li>
-  <li><a href="https://x.com/TDuevski" target="_blank">Twitter</a></li>
-  <li><a href="https://www.linkedin.com/in/teodor-duevski/" target="_blank">LinkedIn</a></li>
-</ul>
+<a href="https://scholar.google.com/citations?user=fRrtt34AAAAJ&hl=en" target="_blank">Google Scholar</a>
+<a href="https://x.com/TDuevski" target="_blank">Twitter</a>
+<a href="https://www.linkedin.com/in/teodor-duevski/" target="_blank">LinkedIn</a>

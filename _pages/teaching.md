@@ -7,6 +7,14 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+/* Hide the page title */
+h1 {
+    display: none;
+}
+</style>
+
+
 **Lecturer:**<br>
 
 CDL Paris Intorduction to Entrepreneurial Strategy, HEC Paris, Spring 2024 .<br>
