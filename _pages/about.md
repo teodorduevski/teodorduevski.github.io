@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>w 16</p>
+    <p>W2 16</p>
     <p>1 Rue de la Libération</p>
     <p>Jouy-en-Josas, France 78350</p>
 
@@ -24,8 +24,7 @@ I am a 4th year **PhD Candidate in Finance** at **HEC Paris**. My main research 
 
 <br><br>
 Email: <a href="mailto:teodor.duevski@hec.edu">teodor.duevski@hec.edu</a>
-<br><br>
-
+<br>
 <ul>
   <li><a href="https://scholar.google.com/citations?user=fRrtt34AAAAJ&hl=en" target="_blank">Google Scholar</a></li>
   <li><a href="https://x.com/TDuevski" target="_blank">Twitter</a></li>
