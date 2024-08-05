@@ -38,7 +38,8 @@ engage with their portfolio companies to manage E&S risk. The threat of “exit�
 concerned investors incentivizes PE firms to exert “voice”. 
 
 
-<a href== "" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Exploration, Exploitation and Agency Issues in Venture Capital</strong></a><br>
+
+<p style="font-size: 18px; margin-bottom: 10px;"><strong>Exploration, Exploitation and Agency Issues in Venture Capital</strong></p>
 (solo-authored, second year paper)
 
 *Main Presentations*: Finance Theory Group Summer School, Rice - LEMMA Annual Conference, Aalto University, Entrepreneurship PhD Workshop, HEC Paris Brown Bag Seminar.
@@ -68,10 +69,10 @@ Conditional on raising a follow up fund however, they grow less.
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Work in Progress:</strong></p>
 
-<a href== "" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Product Market Competition and Intangible Investment</strong></a><br>
+<p style="font-size: 18px; margin-bottom: 10px;"><strong>Product Market Competition and Intangible Investment</strong></p>
 (with Bianca He)
 
-<a href== "" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Concentration Measurement in Venture Capital</strong></a><br>
+<p style="font-size: 18px; margin-bottom: 10px;"><strong>Concentration Measurement in Venture Capital</strong></p>
 (with Viacheslav Bazaliy)
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Contributions to Research:</strong></p>
