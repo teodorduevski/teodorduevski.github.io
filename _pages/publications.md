@@ -20,7 +20,7 @@ h1 {
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Working Papers:</strong></p>
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: none;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
 (with Chhavi Rastogi and Tianhao Yao)
 
 *Main Presentations*: Inquire Europe Fall Seminar (scheduled), 3th Oxford Sustainable Private Market Conference (scheduled), HEC-HKUST Sustainable Finance Seminar Series (scheduled), GRASFI (scheduled), 7th Annual Private Markets Research Conference, International Risk Forum.
@@ -38,7 +38,7 @@ engage with their portfolio companies to manage E&S risk. The threat of “exit�
 concerned investors incentivizes PE firms to exert “voice”. 
 
 
-**Exploration, Exploitation and Agency Issues in Venture Capital**<br>
+<a href=style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Exploration, Exploitation and Agency Issues in Venture Capital</strong></a><br>
 (solo-authored, second year paper)
 
 *Main Presentations*: Finance Theory Group Summer School, Rice - LEMMA Annual Conference, Aalto University, Entrepreneurship PhD Workshop, HEC Paris Brown Bag Seminar.
@@ -66,7 +66,7 @@ Conditional on raising a follow up fund however, they grow less.
 
 
 
-<p style="font-size: 24px;"><strong>Work in Progress:</strong></p><br>
+<p style="font-size: 24px; margin-bottom: 10px;"><strong>Work in Progress:</strong></p>
 
 **Product market competition and intangible investment**<br>
 (with Bianca He)
@@ -74,22 +74,20 @@ Conditional on raising a follow up fund however, they grow less.
 **Concentration measurement in Venture Capital**<br>
 (with Viacheslav Bazaliy)
 
-<p style="font-size: 24px;"><strong>Contributions to Research:</strong></p><br>
+<p style="font-size: 24px; margin-bottom: 10px;"><strong>Contributions to Research:</strong></p>
 
-**Nonstandard Errors**<br> 
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Nonstandard Errors</strong></a><br>
 (Journal of Finance 79, 2339-2390. 2024)<br>
 (with 342 co-authors as a research team member)<br>
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337" title="Publication Link" style="display: inline-block; padding: 3px 8px; font-size: 14px; color: black; background-color: #ffffff; text-align: center; text-decoration: none; border: 2px solid rgb(130, 0, 0); border-radius: 0px;">Journal Link</a>
 
 *Abstract*: In statistics, samples are drawn from a population in a data-generating process (DGP). Standard errors measure the uncertainty in estimates of population parameters. In science, evidence is generated to test hypotheses in an evidence-generating process (EGP). We claim that EGP variation across researchers adds uncertainty—nonstandard errors (NSEs). We study NSEs by letting 164 teams test the same hypotheses on the same data. NSEs turn out to be sizable, but smaller for more reproducible or higher rated research. Adding peer-review stages reduces NSEs. We further find that this type of uncertainty is underestimated by participants.
 
 
-<p style="font-size: 24px;"><strong>Pre PhD Publications:</strong></p><br>
+<p style="font-size: 24px; margin-bottom: 10px;"><strong>Pre PhD Publications:</strong></p>
 
 
-**Understanding detrimental and beneficial grain boundary effects in halide perovskites**<br> 
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201804792" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Understanding detrimental and beneficial grain boundary effects in halide perovskites</strong></a><br>
 (Advanced Materials 30.52, 2018)<br> 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201804792" title="Publication Link" style="display: inline-block; padding: 3px 8px; font-size: 14px; color: black; background-color: #ffffff; text-align: center; text-decoration: none; border: 2px solid rgb(130, 0, 0); border-radius: 0px;">Journal Link</a>
 
 *Abstract*: Grain boundaries play a key role in the performance of thin-film optoelectronic devices and yet their effect in halide perovskite materials is still not understood. The biggest factor limiting progress is the inability to identify grain boundaries. Noncrystallographic techniques can misidentify grain boundaries, leading to conflicting literature reports about their influence; however, the gold standard – electron backscatter diffraction (EBSD) – destroys halide perovskite thin films. Here, this problem is solved by using a solid-state EBSD detector with 6000 times higher sensitivity than the traditional phosphor screen and camera. Correlating true grain size with photoluminescence lifetime, carrier diffusion length, and mobility shows that grain boundaries are not benign but have a recombination velocity of 1670 cm s−1, comparable to that of crystalline silicon. Amorphous grain boundaries are also observed that give rise to locally brighter photoluminescence intensity and longer lifetimes. This anomalous grain boundary character offers a possible explanation for the mysteriously long lifetime and record efficiency achieved in small grain halide perovskite thin films. It also suggests a new approach for passivating grain boundaries, independent of surface passivation, to lead to even better performance in optoelectronic devices.
 
