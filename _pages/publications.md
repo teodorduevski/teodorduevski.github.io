@@ -84,7 +84,7 @@ Conditional on raising a follow up fund however, they grow less.
 *Abstract*: In statistics, samples are drawn from a population in a data-generating process (DGP). Standard errors measure the uncertainty in estimates of population parameters. In science, evidence is generated to test hypotheses in an evidence-generating process (EGP). We claim that EGP variation across researchers adds uncertainty—nonstandard errors (NSEs). We study NSEs by letting 164 teams test the same hypotheses on the same data. NSEs turn out to be sizable, but smaller for more reproducible or higher rated research. Adding peer-review stages reduces NSEs. We further find that this type of uncertainty is underestimated by participants.
 
 
-<p style="font-size: 24px; margin-bottom: 10px;"><strong>Pre PhD Publications:</strong></p>
+<p style="font-size: 24px; margin-bottom: 10px;"><strong>Pre-PhD Publications:</strong></p>
 
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201804792" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Understanding detrimental and beneficial grain boundary effects in halide perovskites</strong></a><br>
