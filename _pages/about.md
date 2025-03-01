@@ -19,9 +19,11 @@ social: false # includes social icons at the bottom of the page
 ---
 Welcome! 
 
-I am a 4th year **PhD Candidate in Finance** at **HEC Paris**.
+I am a 5th year **PhD Candidate in Finance** at **HEC Paris**.
 
 My main research interests are in  **corporate finance** and **financial intermediation in private markets**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1L0-6NrHrvQEC8nHz7yRv89rOK47z0E01/view" target="_blank">here</a>.
+
+New: I am currently visting Harvard Business School until the 31st of May. 
 
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Contact</strong></p>

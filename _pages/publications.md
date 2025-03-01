@@ -23,19 +23,16 @@ h1 {
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
 (with Chhavi Rastogi and Tianhao Yao)
 
-*Main Presentations*: Inquire Europe Fall Seminar (scheduled), 3th Oxford Sustainable Private Market Conference (scheduled), HEC-HKUST Sustainable Finance Seminar Series (scheduled), GRASFI (scheduled), 7th Annual Private Markets Research Conference, International Risk Forum.
+*Main Presentations*: Law and Finance of Private Equity and Venture Capital, EFA, MFA, Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar , 3th Oxford Sustainable Private Market Conference , HEC-HKUST Sustainable Finance Seminar Series , GRASFI, 7th Annual Private Markets Research Conference, International Risk Forum.
 
 *Abstract*: We present novel evidence on how environmental and social (E&S) incidents affect the
-capital raising ability of Private Equity (PE) firms. Using a sample of global buyout investments,
-we find that PE firms experiencing E&S incidents in their portfolio companies are
-less likely to raise a subsequent fund and the subsequent funds are smaller. The relative size
-of subsequent funds is 9%-12% smaller for PE firms experiencing above-median number of
-E&S incidents. The decrease in capital commitment does not seem to be related to fund
-performance, instead it is driven by E&S concerns of limited partners (LPs). LPs trade off
-their E&S concerns with cost of divestment and as a result the impact of E&S incidents
-is weaker for high reputation PE firms. PE firms relying on E&S-concerned LPs in turn
-engage with their portfolio companies to manage E&S risk. The threat of “exit” by E&S
-concerned investors incentivizes PE firms to exert “voice”. 
+capital-raising ability of Private Equity (PE) firms. PE firms with E&S incidents in portfolio
+companies are less likely to fundraise and raise smaller subsequent funds. The decrease in
+capital commitment does not seem related to fund performance; instead, it is driven by E&S
+concerns of relationship limited partners (LPs). LPs trade off E&S concerns with financial
+cost of breaking relationships, implying a weaker impact on large, top-performing PE firms.
+The threat of “exit” by E&S-concerned investors incentivizes PE firms to exert “voice” and
+mitigate negative E&S externalities. 
 
 
 
@@ -69,8 +66,12 @@ Conditional on raising a follow up fund however, they grow less.
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Work in Progress:</strong></p>
 
+<p style="font-size: 18px; margin-bottom: 10px;"><strong>Human Capital and Portfolio Allocation Decisions in Venture Capital </strong></p>
+
+*Main Presentations*: HEC Paris ntrepreneurship Workshop (Early Ideas Session), Chicago Finance PhD Brownbag, HEC Paris Brownbag
+
 <p style="font-size: 18px; margin-bottom: 10px;"><strong>Product Market Competition and Intangible Investment</strong></p>
-(with Bianca He)
+
 
 <p style="font-size: 18px; margin-bottom: 10px;"><strong>Concentration Measurement in Venture Capital</strong></p>
 (with Viacheslav Bazaliy)
