@@ -68,13 +68,13 @@ Conditional on raising a follow up fund however, they grow less.
 
 <p style="font-size: 18px; margin-bottom: 10px;"><strong>Human Capital and Portfolio Allocation Decisions in Venture Capital </strong></p>
 
-*Main Presentations*: HEC Paris ntrepreneurship Workshop (Early Ideas Session), Chicago Finance PhD Brownbag, HEC Paris Brownbag
+*Main Presentations*: HEC Paris Entrepreneurship Workshop (Early Ideas Session), Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag
+
+<p style="font-size: 18px; margin-bottom: 10px;"><strong>Capital Allocation Concentration Measurement in Venture Capital</strong></p>
+(with Viacheslav Bazaliy)
 
 <p style="font-size: 18px; margin-bottom: 10px;"><strong>Product Market Competition and Intangible Investment</strong></p>
 
-
-<p style="font-size: 18px; margin-bottom: 10px;"><strong>Concentration Measurement in Venture Capital</strong></p>
-(with Viacheslav Bazaliy)
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Contributions to Research:</strong></p>
 
