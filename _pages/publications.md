@@ -23,7 +23,7 @@ h1 {
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
 (with Chhavi Rastogi and Tianhao Yao)
 
-*Main Presentations*: Law and Finance of Private Equity and Venture Capital, EFA, MFA, Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar , 3th Oxford Sustainable Private Market Conference , HEC-HKUST Sustainable Finance Seminar Series , GRASFI, 7th Annual Private Markets Research Conference, International Risk Forum.
+*Main Presentations*: FIRS (scheduled), Law and Finance of Private Equity and Venture Capital (scheduled), EFA (scheduled), MFA (scheduled), Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar , 3th Oxford Sustainable Private Market Conference , HEC-HKUST Sustainable Finance Seminar Series , GRASFI, 7th Annual Private Markets Research Conference, International Risk Forum.
 
 *Abstract*: We present novel evidence on how environmental and social (E&S) incidents affect the
 capital-raising ability of Private Equity (PE) firms. PE firms with E&S incidents in portfolio
