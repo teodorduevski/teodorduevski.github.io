@@ -20,10 +20,12 @@ h1 {
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Working Papers:</strong></p>
 
+
+
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
 (with Chhavi Rastogi and Tianhao Yao)
 
-*Main Presentations*: FIRS (scheduled), Law and Finance of Private Equity and Venture Capital (scheduled), EFA (scheduled), MFA (scheduled), Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar , 3th Oxford Sustainable Private Market Conference , HEC-HKUST Sustainable Finance Seminar Series , GRASFI, 7th Annual Private Markets Research Conference, International Risk Forum.
+*Main Presentations*: FIRS (scheduled), Law and Finance of Private Equity and Venture Capital (scheduled), EeasternFA , MFA, Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar , 3th Oxford Sustainable Private Market Conference , HEC-HKUST Sustainable Finance Seminar Series , GRASFI, 7th Annual Private Markets Research Conference, International Risk Forum.
 
 *Abstract*: We present novel evidence on how environmental and social (E&S) incidents affect the
 capital-raising ability of Private Equity (PE) firms. PE firms with E&S incidents in portfolio
@@ -33,6 +35,13 @@ concerns of relationship limited partners (LPs). LPs trade off E&S concerns with
 cost of breaking relationships, implying a weaker impact on large, top-performing PE firms.
 The threat of “exit” by E&S-concerned investors incentivizes PE firms to exert “voice” and
 mitigate negative E&S externalities. 
+
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216676" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Capital Allocation Concentration Measurement in Venture Capital</strong></a><br>
+(with Viacheslav Bazaliy)
+
+
+*Abstract*: We revisit the measurement of capital allocation concentration in the venture capital (VC) industry and highlight the shortcomings of the widely used Herfindahl-Hirschman Index (HHI). We show that HHI-based concentration measures are sensitive to discrepancies in VC database coverage, industry taxonomies, and classification granularity, yielding divergent trends even when applied to identical VC portfolios. To overcome these limitations, we develop a novel concentration metric using large language model (LLM) text embeddings that capture the semantic similarity among financed startups beyond predefined industry classifications. Using matched PitchBook and Crunchbase data, we validate our approach and show that OpenAI embeddings outperform alternative models on signal-to-noise and retrieval tasks. Applying this methodology, we document that aggregate VC capital allocation concentration has increased more sharply than suggested by HHI measures. A novel decomposition shows that 40% of the growth in capital allocation concentration stems from an increase in within-sector similarity among founded startups—an effect that industry-based measures do not capture. 
 
 
 
@@ -66,12 +75,11 @@ Conditional on raising a follow up fund however, they grow less.
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Work in Progress:</strong></p>
 
-<p style="font-size: 18px; margin-bottom: 10px;"><strong>Human Capital and Portfolio Allocation Decisions in Venture Capital </strong></p>
+<p style="font-size: 18px; margin-bottom: 10px;"><strong>Human Capital Breadth, Portfolio Choice and Performance in Venture Capital </strong></p>
 
-*Main Presentations*: HEC Paris Entrepreneurship Workshop (Early Ideas Session), Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag
+*Main Presentations*: Harvard Business School Lunch Seminar, HEC Paris Entrepreneurship Workshop (Early Ideas Session), Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag
 
-<p style="font-size: 18px; margin-bottom: 10px;"><strong>Capital Allocation Concentration Measurement in Venture Capital</strong></p>
-(with Viacheslav Bazaliy)
+
 
 <p style="font-size: 18px; margin-bottom: 10px;"><strong>Product Market Competition and Intangible Investment</strong></p>
 
