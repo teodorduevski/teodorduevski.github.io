@@ -20,12 +20,18 @@ h1 {
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Working Papers:</strong></p>
 
+<p style="font-size: 18px; margin-bottom: 10px;"><strong>Human Capital Breadth, Portfolio Choice and Performance in Venture Capital </strong></p>
 
+
+*Abstract*: I study how the breadth of venture capital (VC) partners' human capital influences investment selection, startup performance, and innovation. Within VC firms, partners with broader backgrounds are more likely to lead novel, high-risk investments, which have a higher likelihood of breakthrough success or failure. On average, these partners underperform, but when leading novel deals, they significantly increase the chances of major success.
+These results are consistent with both selection-where broad-background partners are skilled at screening novel firms and monitoring, where their involvement enhances firm performance. Exploiting plausibly exogenous variation in partner busyness as a shock to within VC firm lead-partner assignment, I provide causal evidence for these effects. To rationalize these findings, I develop an exploration-exploitation portfolio choice model. Broad-background VCs are more likely to explore, experience early failures, and finance exceptional startups, while narrow-background VCs remain within their expertise. These results highlight the role of human capital breadth in fostering exploration and financing novel projects.
+
+*Main Presentations*: NFA (scheduled), Harvard Business School Lunch Seminar, HEC Paris Entrepreneurship Workshop (Early Ideas Session), Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
 (with Chhavi Rastogi and Tianhao Yao)
 
-*Main Presentations*: FIRS (scheduled), Law and Finance of Private Equity and Venture Capital (scheduled), EeasternFA , MFA, Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar , 3th Oxford Sustainable Private Market Conference , HEC-HKUST Sustainable Finance Seminar Series , GRASFI, 7th Annual Private Markets Research Conference, International Risk Forum.
+*Main Presentations*: FIRS, Law and Finance of Private Equity and Venture Capital, EeasternFA, MFA, Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar , 3th Oxford Sustainable Private Market Conference , HEC-HKUST Sustainable Finance Seminar Series , GRASFI, 7th Annual Private Markets Research Conference, FMA
 
 *Abstract*: We present novel evidence on how environmental and social (E&S) incidents affect the
 capital-raising ability of Private Equity (PE) firms. PE firms with E&S incidents in portfolio
@@ -74,11 +80,6 @@ Conditional on raising a follow up fund however, they grow less.
 
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Work in Progress:</strong></p>
-
-<p style="font-size: 18px; margin-bottom: 10px;"><strong>Human Capital Breadth, Portfolio Choice and Performance in Venture Capital </strong></p>
-
-*Main Presentations*: Harvard Business School Lunch Seminar, HEC Paris Entrepreneurship Workshop (Early Ideas Session), Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag
-
 
 
 <p style="font-size: 18px; margin-bottom: 10px;"><strong>Product Market Competition and Intangible Investment</strong></p>
