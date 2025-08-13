@@ -17,7 +17,7 @@ h1 {
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Lecturer</strong></p>
 
-CDL Paris Intorduction to Entrepreneurial Strategy, HEC Paris, Spring 2024, Spring 2025.<br>
+CDL Paris Introduction to Entrepreneurial Strategy (MBA), HEC Paris, Spring 2024, Spring 2025.<br>
 
 Financial Economics (Master in Management), HEC Paris, Fall 2022, 2023 .<br>
 
