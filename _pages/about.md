@@ -19,9 +19,11 @@ social: false # includes social icons at the bottom of the page
 ---
 Welcome! 
 
-I am a 5th year **PhD Candidate in Finance** at **HEC Paris**.
+I am a  **PhD Candidate in Finance** at **HEC Paris**.
 
-My main research interests are in  **corporate finance** and **financial intermediation in private markets**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1DTdwAG4KQ37-armOLpIqeWuG5xeZnhf6/view?usp=sharing" target="_blank">here</a>.
+I am on the job market during the 2025 - 2026 academic year. 
+
+My main research interests are in  **corporate finance**, **financial intermediation in private markets** and **entrepreneurial finance**. You can find the latest version of my CV <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">here</a>.
 
 
 
