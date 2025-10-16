@@ -21,7 +21,7 @@ Welcome!
 
 I am a  **PhD Candidate in Finance** at **HEC Paris**.
 
-I am on the job market during the 2025 - 2026 academic year. 
+I am on the academic job market during the 2025 - 2026 academic year. 
 
 My main research interests are in  **corporate finance**, **financial intermediation in private markets** and **entrepreneurial finance**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1NbFrnlb9S6ikg0_geeRbuTvNszPARdh0/view?usp=drive_link" target="_blank">here</a>.
 
@@ -34,3 +34,17 @@ Email: <a href="mailto:teodor.duevski@hec.edu">teodor.duevski@hec.edu</a><br>
 <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4916468" target="_blank">SSRN</a><br>
 <a href="https://x.com/TDuevski" target="_blank">Twitter</a><br>
 <a href="https://www.linkedin.com/in/teodor-duevski/" target="_blank">LinkedIn</a><br>
+
+
+
+
+
+<p style="font-size: 24px; margin-bottom: 10px;"><strong>Job Market Paper:</strong></p>
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239857" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Human Capital Breadth and the Financing of Innovative Startups</strong></a><br>
+
+*Awards*: ENTFIN Best Doctoral Student Paper Award
+
+*Main Presentations*: HEC Paris Entrepreneurship Workshop (scheduled), Startup Cities: Strategies, Stakeholders and Impact - Doctoral Workshop (scheduled), 21st Annual Olin Finance Conference at Washington University in St. Louis (PhD Poster; 2025), NFA, Harvard Business School Lunch Seminar, Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag. 
+
+*Abstract*: I examine how the breadth of venture capital (VC) partners' human capital influences investment selection, startup performance, and innovation. Partners with broader human capital are more likely to lead investments in novel startups with previously unexplored business models and significantly increase their likelihood of major success; however, they underperform when leading non-novel deals. Exploiting plausibly exogenous variation in partner time constraints as a shock to the within-VC firm likelihood of leading a deal, I provide causal evidence for these effects. A theoretical model endogenizes startup creation, partner assignment, and investment to rationalize the empirical findings. The results highlight the nuanced value of human capital breadth in financing innovation.
