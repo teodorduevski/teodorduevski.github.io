@@ -23,7 +23,7 @@ I am a  **PhD Candidate in Finance** at **HEC Paris**.
 
 I am on the academic job market during the 2025 - 2026 academic year. 
 
-My main research interests are in  **corporate finance**, **financial intermediation in private markets** and **entrepreneurial finance**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1ldgfRdcdbTGfeANEsrCqICzPDmDC0Hrf/view?usp=sharing" target="_blank">here</a>.
+My main research interests are in  **corporate finance**, **financial intermediation in private markets** and **entrepreneurial finance**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1DYBWQJHhaMmLMnEG5iOcm5DSrUuTWmrE/view?usp=sharing" target="_blank">here</a>.
 
 
 
@@ -47,4 +47,4 @@ Email: <a href="mailto:teodor.duevski@hec.edu">teodor.duevski@hec.edu</a><br>
 
 *Main Presentations*: HEC Paris Entrepreneurship Workshop (scheduled), Startup Cities: Strategies, Stakeholders and Impact - Doctoral Workshop (scheduled), 21st Annual Olin Finance Conference at Washington University in St. Louis (PhD Poster; 2025), NFA, Harvard Business School Lunch Seminar, Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag. 
 
-*Abstract*: I examine how the breadth of venture capital (VC) partners' human capital influences investment selection, startup performance, and innovation. Partners with broader human capital are more likely to lead investments in novel startups with previously unexplored business models and significantly increase their likelihood of major success; however, they underperform when leading non-novel deals. Exploiting plausibly exogenous variation in partner time constraints as a shock to the within-VC firm likelihood of leading a deal, I provide causal evidence for these effects. A theoretical model endogenizes startup creation, partner assignment, and investment to rationalize the empirical findings. The results highlight the nuanced value of human capital breadth in financing innovation.
+*Abstract*: I examine how the breadth of venture capital (VC) partners' human capital influences investment selection, startup performance, and innovation. Partners with broader human capital are more likely to lead investments in novel startups with previously unexplored business models and significantly increase their likelihood of major success; however, they underperform when leading non-novel deals. Exploiting plausibly exogenous variation in partner time constraints as a shock to the within-VC firm likelihood of leading a deal, I provide causal evidence for these effects. A theoretical model endogenizes startup creation, partner assignment, and investment to rationalize the empirical findings and provide additional testable predictions. The results highlight the nuanced value of human capital breadth in financing innovation.

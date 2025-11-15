@@ -26,26 +26,19 @@ h1 {
 
 *Main Presentations*: HEC Paris Entrepreneurship Workshop (scheduled), Startup Cities: Strategies, Stakeholders and Impact - Doctoral Workshop (scheduled), 21st Annual Olin Finance Conference at Washington University in St. Louis (PhD Poster; 2025), NFA, Harvard Business School Lunch Seminar, Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag. 
 
-*Abstract*: I examine how the breadth of venture capital (VC) partners' human capital influences investment selection, startup performance, and innovation. Partners with broader human capital are more likely to lead investments in novel startups with previously unexplored business models and significantly increase their likelihood of major success; however, they underperform when leading non-novel deals. Exploiting plausibly exogenous variation in partner time constraints as a shock to the within-VC firm likelihood of leading a deal, I provide causal evidence for these effects. A theoretical model endogenizes startup creation, partner assignment, and investment to rationalize the empirical findings. The results highlight the nuanced value of human capital breadth in financing innovation.
+*Abstract*: I examine how the breadth of venture capital (VC) partners' human capital influences investment selection, startup performance, and innovation. Partners with broader human capital are more likely to lead investments in novel startups with previously unexplored business models and significantly increase their likelihood of major success; however, they underperform when leading non-novel deals. Exploiting plausibly exogenous variation in partner time constraints as a shock to the within-VC firm likelihood of leading a deal, I provide causal evidence for these effects. A theoretical model endogenizes startup creation, partner assignment, and investment to rationalize the empirical findings and provide additional testable predictions. The results highlight the nuanced value of human capital breadth in financing innovation.
 
 
 <p style="font-size: 24px; margin-bottom: 10px;"><strong>Working Papers:</strong></p>
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>ESG Incidents and Fundraising in Private Equity</strong></a><br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641071" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Can Limited Partners Mitigate Negative Externalities in Private Equity?</strong></a><br>
 (with Chhavi Rastogi and Tianhao Yao)
 
 *Main Presentations*: FIRS, Law and Finance of Private Equity and Venture Capital, EasternFA, MFA, Singapore Private Equity Research Symposium, Inquire Europe Fall Seminar, 3th Oxford Sustainable Private Market Conference, HEC-HKUST Sustainable Finance Seminar Series, GRASFI, 7th Annual Private Markets Research Conference, FMA
 
 *Media Coverage*: <a href="https://www.institutionalinvestor.com/article/2cll8d60ulbur92i2gmio/corner-office/esg-scandals-hurt-a-pe-firms-ability-to-fundraise-but-not" target="_blank">Institutional Investor</a>, <a href="https://www.collercapital.com/private-capital-findings-issue-21/pc-findings-21-time-to-engage/" target="_blank">Coller Capital Private Equity Findings</a>, <a href="https://www.newprivatemarkets.com/practitioners-and-academics-must-collaborate-to-bolster-private-markets-sustainability/" target="_blank">New Private Markets</a>, <a href="https://www.optionfinance.fr/analyses/la-reglementation-esg-change-lallocation-des-fonds-mais-non-le-comportement-des-entreprises-polluantes.html?fbclid=IwY2xjawM6EN5leHRuA2FlbQIxMABicmlkETFNQzB2SnNtcVVESjBSQlpCAR7Ma9AL4gGfePYOpab9iemQ9aG4_BmrMJmh9As3vxWxUVgXfTJk6xR12csiww_aem_kxDfrYKQRf3OF8myeJ53Ag" target="_blank">Option Finance (in French)</a>. 
 
-*Abstract*: We present novel evidence on how environmental and social (E&S) incidents affect the
-capital-raising ability of Private Equity (PE) firms. PE firms with E&S incidents in portfolio
-companies are less likely to fundraise and raise smaller subsequent funds. The decrease in
-capital commitment does not seem related to fund performance; instead, it is driven by E&S
-concerns of relationship limited partners (LPs). LPs trade off E&S concerns with financial
-cost of breaking relationships, implying a weaker impact on large, top-performing PE firms.
-The threat of “exit” by E&S-concerned investors incentivizes PE firms to exert “voice” and
-mitigate negative E&S externalities. 
+*Abstract*: We show how Limited Partners’ (LPs) environmental and social (E\&S) concerns transmit to private equity (PE) firms through capital supply. E\&S incidents in portfolio companies reduce PE fundraising, as E\&S-concerned relationship LPs refrain from recommitting and are not easily substituted. Using a legal reform that expands E\&S-concerned public pension capital to PE, we causally show that PE firms internalise LPs' E\&S concerns, reducing dirty sector portfolio allocation and increasing ESG hiring. Additionally, PE firms with E\&S-concerned relationship LPs engage with portfolio companies to manage E\&S risks. Limited capital substitutability enables LPs to delegate E\&S preferences, shaping PE allocation and engagement. 
 
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216676" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Capital Allocation Concentration Measurement in Venture Capital</strong></a><br>
