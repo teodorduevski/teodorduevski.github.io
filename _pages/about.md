@@ -19,9 +19,8 @@ social: false # includes social icons at the bottom of the page
 ---
 Welcome! 
 
-I am a  **PhD Candidate in Finance** at **HEC Paris**.
-
-I am on the academic job market during the 2025 - 2026 academic year. 
+I am a  **PhD Candidate in Finance** at **HEC Paris**. I will join the Chinese University of Hong Kong (CUHK) as an Assistant Professor in Finance in July 2026. 
+ 
 
 My main research interests are in  **corporate finance**, **financial intermediation in private markets** and **entrepreneurial finance**. You can find the latest version of my CV <a href="https://drive.google.com/file/d/1DYBWQJHhaMmLMnEG5iOcm5DSrUuTWmrE/view?usp=sharing" target="_blank">here</a>.
 
@@ -43,7 +42,7 @@ Email: <a href="mailto:teodor.duevski@hec.edu">teodor.duevski@hec.edu</a><br>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239857" style="font-size: 18px; color: blue; text-decoration: underline;"><strong>Human Capital Breadth and the Financing of Innovative Startups</strong></a><br>
 
-*Awards*: ENTFIN Best Doctoral Student Paper Award
+*Awards*: The Brattle Group Ph.D. Candidate Awards For Outstanding Research, ENTFIN Best Doctoral Student Paper Award
 
 *Main Presentations*: WFA (scheduled); HEC Paris Entrepreneurship Workshop, Startup Cities: Strategies, Stakeholders and Impact - Doctoral Workshop, 21st Annual Olin Finance Conference at Washington University in St. Louis (PhD Poster; 2025), NFA, Harvard Business School Lunch Seminar, Chicago Booth Finance PhD Brownbag, HEC Paris Brownbag. 
 
