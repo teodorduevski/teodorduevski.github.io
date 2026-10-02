@@ -130,7 +130,7 @@ My research interests are in **corporate finance**, **private markets**, and **e
 <a href="mailto:teodorduevski@cuhk.edu.hk">teodorduevski@cuhk.edu.hk</a><br>
 <strong>Office:</strong> Room 1247, Cheng Yu Tung Building, CUHK<br>
 <strong>Phone:</strong> +852 3943 1820<br>
-<a href="https://drive.google.com/file/d/1DYBWQJHhaMmLMnEG5iOcm5DSrUuTWmrE/view?usp=sharing">CV</a>
+<a href="https://drive.google.com/file/d/1aA8tfDQy6pCD_WjNIhf-7nsaGCf3TDpP/view?usp=sharing">CV</a>
 &nbsp;·&nbsp;
 <a href="https://scholar.google.com/citations?user=fRrtt34AAAAJ&hl=en">Google Scholar</a>
 &nbsp;·&nbsp;
